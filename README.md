@@ -2,7 +2,11 @@
 everything you see here is a modest attempt by a modest neechie.<br>
 
 skoden :100:</p>
-<hr>
+<hr> <br>
+v1.1.2
+Updated Branding
+Added Abbreviations
+<hr> <br>
 v0.1.1
 Added Patch Notes to README
 <hr> <br>
