@@ -1,16 +1,17 @@
-<p> heyo, this is a project for the First Nations Tech Council's Foundations of Coding Class. 
-everything you see here is a modest attempt by a modest neechie.
+<p> heyo, this is a project for the First Nations Tech Council's Foundations of Coding Class. <br>
+everything you see here is a modest attempt by a modest neechie.<br>
 
 skoden :100:</p>
-
+<hr>
 v0.1.1
 Added Patch Notes to README
+<hr> <br>
 v0.1
-Going forward the Version number has been changed to v0.1 for further clarification. All hotfixes and minor updates will be addressed as v0.1x
-Text formatting has been implemented and future text written should reflect this
-Adjusted Title Formatting to fit new style
-Adjusted Intro Section to better hook readers
-Adjusted Skilling to be more intriguing to readers
-Adjusted Skilling Examples to fit theme
-Adjusted Footer to include proper branding
+Going forward the Version number has been changed to v0.1 for further clarification. All hotfixes and minor updates will be addressed as v0.1x <br>
+Text formatting has been implemented and future text written should reflect this <br>
+Adjusted Title Formatting to fit new style <br>
+Adjusted Intro Section to better hook readers <br>
+Adjusted Skilling to be more intriguing to readers <br>
+Adjusted Skilling Examples to fit theme <br>
+Adjusted Footer to include proper branding <br>
 
