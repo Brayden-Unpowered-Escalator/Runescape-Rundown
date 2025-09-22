@@ -1,0 +1,35 @@
+body {
+    background-color: #f2cc8f;
+        font-family: 'Playfair Display', Arial, Helvetica, sans-serif;
+        font-weight: '600';
+        font-size: 'x-large';
+}
+
+header {
+    background-color: #81b29a;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+footer {
+    background-color: #3d405b;
+        font-size: 'xx-large';
+        color:blanchedalmond;
+}
+
+h1 {
+    background-color: #3d405b;
+        font-size: '200';
+        color: blanchedalmond;
+}
+
+h2 {
+    background-color: red;
+        font-family: 'Impact', 'Haettenschweiler', 'Arial Narrow Bold', sans-serif;
+        font-size: xx-large;
+        font-weight: '200';
+        align-content: 'center';
+}
+h3 {
+    background-color: #81b29a;
+    font-size: x-large;
+}
