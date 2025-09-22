@@ -3,8 +3,8 @@ everything you see here is a modest attempt by a modest neechie.<br>
 
 skoden :100:</p>
 <hr> <br>
-v0.3.1
-Hotfix
+v0.3.1<br>
+Hotfix<br>
 Properly added v0.3 patch notes lol<br>
 Added Slayer Icon Asset<br>
 Added Slayer Cape Asset<br>
