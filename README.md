@@ -3,6 +3,30 @@ everything you see here is a modest attempt by a modest neechie.<br>
 
 skoden :100:</p>
 <hr> <br>
+v0.3.1
+Hotfix
+Properly added v0.3 patch notes lol<br>
+Added Slayer Icon Asset<br>
+Added Slayer Cape Asset<br>
+Added Slayer Helm Asset<br>
+Added temporary Slayer Skill Write Up<br>
+Added Alt text for Slayer Icon<br>
+Removed Old things to do List<br>
+Added things to keep in mind List<br>
+<br><hr>
+v0.3 <br>
+Major Update<br>
+Added new CSS elements<br>
+Added Colour to Head<br>
+Added Colour to Body <br>
+Added Colour to 1st header <br>
+Added New Battlestation picture<br>
+Added New 2001 Runescape Logo<br>
+Added personal picture to About Me section<br>
+Added Colour to Footer<br>
+Added Site Navigation section at top of page<br>
+Added Slayer Page<br>
+<hr><br>
 v0.2 <br>
 New Major Update<br>
 Added RS Logo<br>

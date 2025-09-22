@@ -2,7 +2,7 @@ body {
     background-color: #f2cc8f;
         font-family: 'Playfair Display', Arial, Helvetica, sans-serif;
         font-weight: '600';
-        font-size: 'x-large';
+        font-size: 'xx-large';
 }
 
 header {
@@ -32,4 +32,5 @@ h2 {
 h3 {
     background-color: #81b29a;
     font-size: x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
