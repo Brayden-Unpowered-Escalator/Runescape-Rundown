@@ -3,6 +3,22 @@ everything you see here is a modest attempt by a modest neechie.<br>
 
 skoden :100:</p>
 <hr> <br>
+v0.4<br>
+<b>Major Update</b><br>
+Massive Layout changes<br>
+Header Changed<br>
+Reformatted About Section<br>
+Remormatted Slayer Page<br>
+Added Brayden hitting 63 slayer as a cool example of gameplay<br>
+Added Facemask Image<br>
+Added Mirrorshield Image<br>
+Added Leafspear Image<br>
+Added Braydens Current stats, he's so good at Runescape.<br>
+Added Spria Image<br>
+Added Vannaka Image<br>
+Added Nieve Image<br>
+CSS Updated to better assist HTML layout<br>
+<br><hr>
 v0.3.1<br>
 Hotfix<br>
 Properly added v0.3 patch notes lol<br>
@@ -15,7 +31,7 @@ Removed Old things to do List<br>
 Added things to keep in mind List<br>
 <br><hr>
 v0.3 <br>
-Major Update<br>
+<b>Major Update</b><br>
 Added new CSS elements<br>
 Added Colour to Head<br>
 Added Colour to Body <br>
@@ -28,7 +44,7 @@ Added Site Navigation section at top of page<br>
 Added Slayer Page<br>
 <hr><br>
 v0.2 <br>
-New Major Update<br>
+<b>Major Update</b><br>
 Added RS Logo<br>
 Added BWpng<br>
 Added Link to bottom of page for copyright and contact information<br>
@@ -49,7 +65,7 @@ v0.1.1<br>
 Added Patch Notes to README<br>
 <hr> <br>
 v0.1<br>
-New Major update <br>
+<b>Major update</b><br>
 Adjusted Title Formatting to fit new style <br>
 Adjusted Intro Section to better hook readers <br>
 Adjusted Skilling to be more intriguing to readers <br>

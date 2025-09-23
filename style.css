@@ -1,36 +1,68 @@
+*{
+    font-family: 'Playfair Display', Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
 body {
     background-color: #f2cc8f;
-        font-family: 'Playfair Display', Arial, Helvetica, sans-serif;
-        font-weight: '600';
-        font-size: 'xx-large';
 }
 
 header {
     background-color: #81b29a;
-        font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 footer {
     background-color: #3d405b;
-        font-size: 'xx-large';
-        color:blanchedalmond;
+    font-size: '20px';
+    color:blanchedalmond;
 }
-
 h1 {
-    background-color: #3d405b;
-        font-size: '200';
-        color: blanchedalmond;
+    background-color: #474747;
+    font-size: 80px;
+    color: blanchedalmond;
 }
 
 h2 {
     background-color: red;
-        font-family: 'Impact', 'Haettenschweiler', 'Arial Narrow Bold', sans-serif;
-        font-size: xx-large;
-        font-weight: '200';
-        align-content: 'center';
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+    font-weight: 300;
+    font-style: italic;
+    text-decoration: underline;
 }
 h3 {
     background-color: #81b29a;
-    font-size: x-large;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.5em;
+    line-height: '200';
+}
+
+h5 {
+    background-color: #3d405b;
+    font-family: 'Playfair Display', Arial, Helvetica, sans-serif;
+}
+
+h4 a {
+    text-decoration: line-through;
+
+}
+
+a {
+    color: blanchedalmond;
+    text-decoration: hover;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+nav {
+    text-decoration: underline;
+    font-size: xx-large;
+    background-color: #81b29a;
+    color: blanchedalmond;
 }
