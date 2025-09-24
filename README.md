@@ -3,6 +3,19 @@ everything you see here is a modest attempt by a modest neechie.<br>
 
 skoden :100:</p>
 <hr> <br>
+v0.5<br>
+<b>Major Update</b><br>
+Added new Layout to main page<br>
+Added new layout to About page<br>
+Added new layout to Slayer Page<br>
+New background Colour added<br>
+Adjusted CSS padding<br>
+Removed old HTML stylings<br>
+Adjusted Intro<br>
+Adjusted Skilling<br>
+Updated branding<br>
+Updated Pigeon Link<br>
+<br><hr>
 v0.4<br>
 <b>Major Update</b><br>
 Massive Layout changes<br>
