@@ -3,7 +3,7 @@
     font-size: 24px;
     text-align: center;
     box-sizing: border-box;
-    margin: 0;
+    margin: 0 auto;
     padding: 9px;
 
 }
@@ -33,15 +33,16 @@ body {
 }
 
 .brainwashing {
-    margin: 0 auto;
+    display: inline-flexbox;
+    max-width: 1000px;
+    width: 100%;
     
 }
 
 /* Play button Images */
 
 .playbutton {
-    display: inline-flex;
-    padding: 0px 10px 0px 0px;
+    display: inline-flexbox;
     margin: 0 auto;
 }
 
@@ -81,7 +82,8 @@ h2 {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 30px;
     font-weight: 300;
-    margin: 50px 500px 10px 500px;
+    margin: 50px 50px 10px 50px;
+    display: inline-flexbox;
     font-style: italic;
     text-decoration: underline;
 }
@@ -104,18 +106,27 @@ h5 {
 /* Slayer Images */
 
 .capes {
-    display: inline-flex;
+    display: inline-flexbox;
     max-width: 1000px;
+    width: 100%;
 }
 
 .slayergear {
-    display: inline-flex;
+    display: inline-flexbox;
     max-width: 1000px;
+    width: 100%;
 }
 
 .slayergroup {
-    display: inline-flex;
+    display: inline-flexbox;
     max-width: 1000px;
+    width: 100%;
+}
+
+.slayerlvl {
+    display: inline-flexbox;
+    max-width: 1000px;
+    width: 100%;
 }
 
 h4, .hidden {
@@ -131,7 +142,7 @@ a, :hover {
 nav {
     font-size: 30px;
     background-color: #343a40;
-    margin: 10px 500px 50px 500px;
+    margin: 10px 50px 50px 50px;
     padding: 5px 20px 20px 20px;
     border: 20px solid #81b29a;
     color: blanchedalmond;

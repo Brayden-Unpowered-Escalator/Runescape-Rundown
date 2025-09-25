@@ -3,6 +3,11 @@ everything you see here is a modest attempt by a modest neechie.<br>
 
 skoden :100:</p>
 <hr> <br>
+v1.1<br>
+Hotfix<br>
+Adjusted Image elements on Main page to fit small windows and mobile<br>
+Adjusted images on Slayer page to fit small windows and mobile<br>
+<br><hr>
 v1.0<br>
 <b>Launch<b><br>
 Added repeating background<br>
