@@ -3,6 +3,26 @@ everything you see here is a modest attempt by a modest neechie.<br>
 
 skoden :100:</p>
 <hr> <br>
+v1.0<br>
+<b>Launch<b><br>
+Added repeating background<br>
+Added Google Play button<br>
+Added Apple Store button<br>
+Added Steam Store button<br>
+Added WWW Button<br>
+Cleaned up interface more to be more appealing<br>
+Adjusted margins to better show the Ordered Lists and Unordered Lists<br>
+Reorganized Slayer Page<br>
+Reorganized About Page<br>
+Adjusted background colours of some DIV elements<br>
+Brought Colour theme into a more cohesive blend<br>
+Added Trimmed Slayer Cape image<br>
+Added Barbarian Fishing GIF<br>
+Added Tempross GIF<br>
+Added Chambers of Xeric GIF<br>
+Adjusted to BattlestationRS.png to be more on brand<br>
+Added application for the First Nations Tech Council Focus Web Development program<br>
+<hr><br>
 v0.5<br>
 <b>Major Update</b><br>
 Added new Layout to main page<br>

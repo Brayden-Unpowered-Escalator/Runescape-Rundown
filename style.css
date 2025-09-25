@@ -4,29 +4,68 @@
     text-align: center;
     box-sizing: border-box;
     margin: 0;
-    padding: 0;
+    padding: 9px;
 
 }
 
-body {
-    background-color: #432818;
+a {
+    color: deepskyblue;
+}
+
+/* brown background made transparent to show off brick a bit */
+
+main {
+    background-color: rgba(67, 40, 24,0.8);
+    padding: 6px;
     color: blanchedalmond;
-    padding: 0px 20px 10px 20px;
+}
+
+/* Brick should repeat on all pages*/
+
+body {
+    width: 100%;
+    height: 100%;
+    background-size: 100%;
+    background-image: url("./assets/backgroundrepeat.jpg");
+    background-repeat: repeat;
+    background-position: left top;
+    
+}
+
+.brainwashing {
+    margin: 0 auto;
+    
+}
+
+/* Play button Images */
+
+.playbutton {
+    display: inline-flex;
+    padding: 0px 10px 0px 0px;
+    margin: 0 auto;
+}
+
+.aggresive {
+    font-weight: 400;
+    font-size: xx-large;
+}
+
+.adventure {
+    display: inline;
+    padding: 50px 0px 50px 0px;
 }
 
 header {
     background-color: #81b29a;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 10px 10px 10px 10px;
     border: 10px dotted #f2cc8f
 }
 
-div, p .startrs {
-    padding: 0px 10px 0px 10px;
-}
-
 footer {
-    background-color: #3d405b;
+    background-color: #343a40;
     font-size: 20px;
+    height: 10%;
     width: 100%;
     color:blanchedalmond;
 }
@@ -49,24 +88,40 @@ h2 {
 h3 {
     background-color: #81b29a;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: underline;
     font-size: 40px;
     padding: 10px 10px 10px 10px;
+    margin: 20px 0px 20px 0px;
     line-height: '200';
 }
 
 h5 {
-    background-color: #343a40;
+    color: greenyellow;
     font-family: 'Playfair Display', Arial, Helvetica, sans-serif;
+    padding: 10px 10px 20px 10px;
 }
 
-img, .master {
-    padding: 10px 0px 0px 0px;
+/* Slayer Images */
+
+.capes {
+    display: inline-flex;
+    max-width: 1000px;
 }
 
+.slayergear {
+    display: inline-flex;
+    max-width: 1000px;
+}
 
-h4, #hidden {
+.slayergroup {
+    display: inline-flex;
+    max-width: 1000px;
+}
+
+h4, .hidden {
     color: blanchedalmond;
     text-decoration: line-through;
+    text-size-adjust: 16px;
 }
 
 a, :hover {
@@ -75,9 +130,9 @@ a, :hover {
 
 nav {
     font-size: 30px;
-    background-color: #81b29a;
-    margin: 50px 500px 50px 500px;
-    padding: 20px 20px 20px 20px;
-    border: 20px solid #343a40;
+    background-color: #343a40;
+    margin: 10px 500px 50px 500px;
+    padding: 5px 20px 20px 20px;
+    border: 20px solid #81b29a;
     color: blanchedalmond;
 }
